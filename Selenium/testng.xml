@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      
+      <class name="practice.expandtesting.autoComplete"/>
+        
+      <class name="practice.expandtesting.InfiniteScroll"/>
+      <class name="practice.expandtesting.ToolTip"/>
+      <class name="Selenium1.ShadowDOM"/>
+      <class name="practice.expandtesting.RadioButtons"/>
+      <class name="Selenium1.Practice2"/>
+      <class name="Selenium1.SpinningTarget"/>
+      <class name="Selenium1.uiTestPlayground"/>
+      <class name="Selenium1.Practice3"/>
+      <class name="Selenium1.verifyText"/>
+      <class name="Selenium1.Practice1"/>
+      <class name="Selenium1.scroll"/>
+      <class name="practice.expandtesting.skeleton"/>
+      <class name="practice.expandtesting.DragNDrop"/>
+      <class name="practice.expandtesting.SecureAlert"/>
+      <class name="practice.expandtesting.ExitIntent"/>
+      <class name="Selenium1.scroll2"/>
+      <class name="practice.expandtesting.dragndropCircle"/>
+      <class name="Selenium1.ProgressBar"/>
+      <class name="practice.expandtesting.SlowResources"/>
+      <class name="Selenium1.Login"/>
+      <class name="practice.expandtesting.adEntry"/>
+      <class name="Selenium1.Keys"/>
+      <class name="practice.expandtesting.BrokenImage"/>
+      <class name="Selenium1.DynamicLinks"/>
+      <class name="practice.expandtesting.DropDownMenuViaXpath"/>
+      <class name="Selenium1.paginationTable"/>
+      <class name="practice.expandtesting.JQueryUI"/>
+      <class name="practice.expandtesting.fileUpload"/>
+      <class name="practice.expandtesting.iFrames"/>
+      <class name="practice.expandtesting.JSalerts"/>
+      <class name="practice.expandtesting.FloatMenu"/>
+      <class name="practice.expandtesting.slider"/>
+      <class name="practice.expandtesting.DropDownMenu"/>
+      <class name="Selenium1.nestedDOM"/>
+      <class name="practice.expandtesting.jsError"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
